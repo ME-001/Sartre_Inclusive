@@ -9,5 +9,6 @@ Now you can use different modes for event generation
 2) Tables
 3) Neural Network models
 
+**Download the tables from the below link and put them in /tables/<A>/bSat/X directory**
 
 # LINK to download tables for inclusive diffraction : https://csciitd-my.sharepoint.com/:f:/g/personal/phz248487_iitd_ac_in/IgDLVykGT-cJTJnUTK5D7gBsAc1vYBEPBOIyWcoatyH-yaI?e=dVELLd
