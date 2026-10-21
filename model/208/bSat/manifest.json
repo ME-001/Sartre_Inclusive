@@ -1,0 +1,566 @@
+[
+  {
+    "file": "lead_A208-lead_bSat_STU_TQQ_q0.bin",
+    "channel_name": "TQQ_q0",
+    "label": "TQQ",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 209.30578791729184,
+    "x_min": [
+      0.010005495343357325,
+      0.09531915376343296,
+      3.163595685083877e-05,
+      0.0010011488124728202
+    ],
+    "x_max": [
+      0.9899969789758325,
+      4.605166364579123,
+      9.883274232399797,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_LQQ_q0.bin",
+    "channel_name": "LQQ_q0",
+    "label": "LQQ",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 208.98752463243886,
+    "x_min": [
+      0.010005495343357325,
+      0.09531915376343296,
+      3.163595685083877e-05,
+      0.0010011488124728202
+    ],
+    "x_max": [
+      0.9899969789758325,
+      4.605166364579123,
+      9.883274232399797,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_TQQG_q0.bin",
+    "channel_name": "TQQG_q0",
+    "label": "TQQG",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -43.92201905164829,
+    "target_scale": 64.634343489838,
+    "x_min": [
+      0.010005495343357325,
+      0.09536537093856287,
+      3.163595685083877e-05,
+      0.010820535125210883
+    ],
+    "x_max": [
+      0.989765649754554,
+      4.605154209839487,
+      9.883274232399797,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_TQQ_q1.bin",
+    "channel_name": "TQQ_q1",
+    "label": "TQQ",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 207.91949355617194,
+    "x_min": [
+      0.010005495343357325,
+      0.09531915376343296,
+      3.163595685083877e-05,
+      0.0010011488124728202
+    ],
+    "x_max": [
+      0.9899969789758325,
+      4.605166364579123,
+      9.883274232399797,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_LQQ_q1.bin",
+    "channel_name": "LQQ_q1",
+    "label": "LQQ",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 207.601230271319,
+    "x_min": [
+      0.010005495343357325,
+      0.09531915376343296,
+      3.163595685083877e-05,
+      0.0010011488124728202
+    ],
+    "x_max": [
+      0.9899969789758325,
+      4.605166364579123,
+      9.883274232399797,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_TQQG_q1.bin",
+    "channel_name": "TQQG_q1",
+    "label": "TQQG",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -45.30831341276818,
+    "target_scale": 64.634343489838,
+    "x_min": [
+      0.010005495343357325,
+      0.09536537093856287,
+      3.163595685083877e-05,
+      0.010820535125210883
+    ],
+    "x_max": [
+      0.989765649754554,
+      4.605154209839487,
+      9.883274232399797,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_TQQ_q2.bin",
+    "channel_name": "TQQ_q2",
+    "label": "TQQ",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 207.91949355617194,
+    "x_min": [
+      0.010005495343357325,
+      0.09534492146834941,
+      3.163595685083877e-05,
+      0.0010011488124728202
+    ],
+    "x_max": [
+      0.9899969789758325,
+      4.605166364579123,
+      9.883274232399797,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_LQQ_q2.bin",
+    "channel_name": "LQQ_q2",
+    "label": "LQQ",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 218.86541278026908,
+    "x_min": [
+      0.010005495343357325,
+      0.09534492146834941,
+      3.163595685083877e-05,
+      0.0010011488124728202
+    ],
+    "x_max": [
+      0.9899969789758325,
+      4.605166364579123,
+      9.883274232399797,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_TQQG_q2.bin",
+    "channel_name": "TQQG_q2",
+    "label": "TQQG",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -45.30831341276818,
+    "target_scale": 64.634343489838,
+    "x_min": [
+      0.010005495343357325,
+      0.09536537093856287,
+      3.163595685083877e-05,
+      0.010820535125210883
+    ],
+    "x_max": [
+      0.989765649754554,
+      4.605154209839487,
+      9.883274232399797,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_TQQ_q3.bin",
+    "channel_name": "TQQ_q3",
+    "label": "TQQ",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 245.39058766954588,
+    "x_min": [
+      0.010005495343357325,
+      2.1033966295126256,
+      1.9922578145349243,
+      0.021744908016175034
+    ],
+    "x_max": [
+      0.9205952508933842,
+      4.605166364579123,
+      9.883257940388269,
+      0.9786567264907062
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_LQQ_q3.bin",
+    "channel_name": "LQQ_q3",
+    "label": "LQQ",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 243.44801639678786,
+    "x_min": [
+      0.010005495343357325,
+      2.1033966295126256,
+      1.9922578145349243,
+      0.021744908016175034
+    ],
+    "x_max": [
+      0.9205952508933842,
+      4.605166364579123,
+      9.883257940388269,
+      0.9786567264907062
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "lead_A208-lead_bSat_STU_TQQG_q3.bin",
+    "channel_name": "TQQG_q3",
+    "label": "TQQG",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -43.85258601032558,
+    "target_scale": 63.44296286916342,
+    "x_min": [
+      0.010005495343357325,
+      0.09540430556326866,
+      1.9922503588686316,
+      0.015289312474429606
+    ],
+    "x_max": [
+      0.9105796102248133,
+      4.605154209839487,
+      9.883185841333857,
+      0.9989946193564683
+    ],
+    "nucleus_A": 208,
+    "nucleus_name": "lead",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  }
+]

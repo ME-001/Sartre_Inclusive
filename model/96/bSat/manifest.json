@@ -1,0 +1,566 @@
+[
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_TQQ_q0.bin",
+    "channel_name": "TQQ_q0",
+    "label": "TQQ",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 213.56869560807144,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      4.85354671149952e-05,
+      0.0010002955682575703
+    ],
+    "x_max": [
+      0.9899997152388096,
+      4.605164794842105,
+      9.883252795058073,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_LQQ_q0.bin",
+    "channel_name": "LQQ_q0",
+    "label": "LQQ",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 214.58262769910525,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      4.85354671149952e-05,
+      0.0010002955682575703
+    ],
+    "x_max": [
+      0.9899997152388096,
+      4.605164794842105,
+      9.883252795058073,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_TQQG_q0.bin",
+    "channel_name": "TQQG_q0",
+    "label": "TQQG",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -44.303720356147444,
+    "target_scale": 63.896745887584956,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      4.85354671149952e-05,
+      0.012202566754072906
+    ],
+    "x_max": [
+      0.989719497449696,
+      4.6051365438646945,
+      9.883252795058073,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_TQQ_q1.bin",
+    "channel_name": "TQQ_q1",
+    "label": "TQQ",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 212.18240124695154,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      4.85354671149952e-05,
+      0.0010002955682575703
+    ],
+    "x_max": [
+      0.9899997152388096,
+      4.605164794842105,
+      9.883252795058073,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_LQQ_q1.bin",
+    "channel_name": "LQQ_q1",
+    "label": "LQQ",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 213.19633333798535,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      4.85354671149952e-05,
+      0.0010002955682575703
+    ],
+    "x_max": [
+      0.9899997152388096,
+      4.605164794842105,
+      9.883252795058073,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_TQQG_q1.bin",
+    "channel_name": "TQQG_q1",
+    "label": "TQQG",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -45.69001471726734,
+    "target_scale": 63.89674588758496,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      4.85354671149952e-05,
+      0.012202566754072906
+    ],
+    "x_max": [
+      0.989719497449696,
+      4.6051365438646945,
+      9.883252795058073,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_TQQ_q2.bin",
+    "channel_name": "TQQ_q2",
+    "label": "TQQ",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 212.18240124695154,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      4.85354671149952e-05,
+      0.0010050664860755205
+    ],
+    "x_max": [
+      0.9899997152388096,
+      4.605164794842105,
+      9.883252795058073,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_LQQ_q2.bin",
+    "channel_name": "LQQ_q2",
+    "label": "LQQ",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 213.19633333798535,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      4.85354671149952e-05,
+      0.0010050664860755205
+    ],
+    "x_max": [
+      0.9899997152388096,
+      4.605164794842105,
+      9.883252795058073,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_TQQG_q2.bin",
+    "channel_name": "TQQG_q2",
+    "label": "TQQG",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -45.69001471726734,
+    "target_scale": 63.89674588758496,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      4.85354671149952e-05,
+      0.012202566754072906
+    ],
+    "x_max": [
+      0.989719497449696,
+      4.6051365438646945,
+      9.883252795058073,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_TQQ_q3.bin",
+    "channel_name": "TQQ_q3",
+    "label": "TQQ",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 283.69574255422714,
+    "x_min": [
+      0.010013558100908995,
+      2.100749499633625,
+      1.9922626745248044,
+      0.021336015356704593
+    ],
+    "x_max": [
+      0.9199271336011589,
+      4.605164794842105,
+      9.883162148883192,
+      0.9783844765238464
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_LQQ_q3.bin",
+    "channel_name": "LQQ_q3",
+    "label": "LQQ",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 229.62587367028135,
+    "x_min": [
+      0.010013558100908995,
+      2.100749499633625,
+      1.9922626745248044,
+      0.021336015356704593
+    ],
+    "x_max": [
+      0.9199271336011589,
+      4.605164794842105,
+      9.883162148883192,
+      0.9783844765238464
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "ruthenium_A96-ruthenium_bSat_STU_TQQG_q3.bin",
+    "channel_name": "TQQG_q3",
+    "label": "TQQG",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -42.99852802780644,
+    "target_scale": 61.99676117009287,
+    "x_min": [
+      0.010001082457602024,
+      0.09531061027671621,
+      1.992247781601271,
+      0.015960403921082614
+    ],
+    "x_max": [
+      0.9103657436184585,
+      4.605124912370731,
+      9.883162148883192,
+      0.9989986587893218
+    ],
+    "nucleus_A": 96,
+    "nucleus_name": "ruthenium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  }
+]

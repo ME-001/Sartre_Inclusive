@@ -1,0 +1,13 @@
+# Target labels
+ cuba
+# Source files and their labels
+/Users/bhakta/InDis4/src/CMakeFiles/cuba
+/Users/bhakta/InDis4/src/CMakeFiles/cuba.rule
+/Users/bhakta/InDis4/src/CMakeFiles/cuba-complete.rule
+/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-build.rule
+/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-configure.rule
+/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-download.rule
+/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-install.rule
+/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-mkdir.rule
+/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-patch.rule
+/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-update.rule

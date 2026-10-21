@@ -1,0 +1,566 @@
+[
+  {
+    "file": "gold_A197-gold_bSat_STU_TQQ_q0.bin",
+    "channel_name": "TQQ_q0",
+    "label": "TQQ",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 213.4169278608867,
+    "x_min": [
+      0.010002299081534147,
+      0.0953316945039748,
+      1.0345887547424016e-05,
+      0.0010011460240930319
+    ],
+    "x_max": [
+      0.9899984447658062,
+      4.60516760407092,
+      9.88327975511557,
+      0.9989999014772475
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_LQQ_q0.bin",
+    "channel_name": "LQQ_q0",
+    "label": "LQQ",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 213.0616437279798,
+    "x_min": [
+      0.010002299081534147,
+      0.0953316945039748,
+      1.0345887547424016e-05,
+      0.0010011460240930319
+    ],
+    "x_max": [
+      0.9899984447658062,
+      4.60516760407092,
+      9.88327975511557,
+      0.9989999014772475
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_TQQG_q0.bin",
+    "channel_name": "TQQG_q0",
+    "label": "TQQG",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -43.506962588200864,
+    "target_scale": 63.12265582058944,
+    "x_min": [
+      0.010002299081534147,
+      0.0954512818735136,
+      1.0345887547424016e-05,
+      0.011168375279754401
+    ],
+    "x_max": [
+      0.9894694579578936,
+      4.60516760407092,
+      9.883250282222397,
+      0.9989999014772475
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_TQQ_q1.bin",
+    "channel_name": "TQQ_q1",
+    "label": "TQQ",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 212.0306334997668,
+    "x_min": [
+      0.010002299081534147,
+      0.0953316945039748,
+      1.0345887547424016e-05,
+      0.0010011460240930319
+    ],
+    "x_max": [
+      0.9899984447658062,
+      4.60516760407092,
+      9.88327975511557,
+      0.9989999014772475
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_LQQ_q1.bin",
+    "channel_name": "LQQ_q1",
+    "label": "LQQ",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 211.6753493668599,
+    "x_min": [
+      0.010002299081534147,
+      0.0953316945039748,
+      1.0345887547424016e-05,
+      0.0010011460240930319
+    ],
+    "x_max": [
+      0.9899984447658062,
+      4.60516760407092,
+      9.88327975511557,
+      0.9989999014772475
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_TQQG_q1.bin",
+    "channel_name": "TQQG_q1",
+    "label": "TQQG",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -44.89325694932076,
+    "target_scale": 63.12265582058944,
+    "x_min": [
+      0.010002299081534147,
+      0.0954512818735136,
+      1.0345887547424016e-05,
+      0.011168375279754401
+    ],
+    "x_max": [
+      0.9894694579578936,
+      4.60516760407092,
+      9.883250282222397,
+      0.9989999014772475
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_TQQ_q2.bin",
+    "channel_name": "TQQ_q2",
+    "label": "TQQ",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 212.0306334997668,
+    "x_min": [
+      0.010002299081534147,
+      0.0953316945039748,
+      1.0345887547424016e-05,
+      0.0010011460240930319
+    ],
+    "x_max": [
+      0.9899957194551825,
+      4.60516760407092,
+      9.883250282222397,
+      0.9989939640872181
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_LQQ_q2.bin",
+    "channel_name": "LQQ_q2",
+    "label": "LQQ",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 211.6753493668599,
+    "x_min": [
+      0.010002299081534147,
+      0.0953316945039748,
+      1.0345887547424016e-05,
+      0.0010011460240930319
+    ],
+    "x_max": [
+      0.9899957194551825,
+      4.60516760407092,
+      9.883250282222397,
+      0.9989939640872181
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_TQQG_q2.bin",
+    "channel_name": "TQQG_q2",
+    "label": "TQQG",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -44.89325694932076,
+    "target_scale": 63.12265582058944,
+    "x_min": [
+      0.010002299081534147,
+      0.0954512818735136,
+      1.0345887547424016e-05,
+      0.011168375279754401
+    ],
+    "x_max": [
+      0.9887176592089235,
+      4.60516760407092,
+      9.883250282222397,
+      0.9989999014772475
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_TQQ_q3.bin",
+    "channel_name": "TQQ_q3",
+    "label": "TQQ",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 277.63017885137424,
+    "x_min": [
+      0.010006805974990129,
+      2.09912724504871,
+      1.99230399364331,
+      0.021932089162990453
+    ],
+    "x_max": [
+      0.9206472891755402,
+      4.60516760407092,
+      9.883182168727869,
+      0.9776133714709431
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_LQQ_q3.bin",
+    "channel_name": "LQQ_q3",
+    "label": "LQQ",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -115.12925464970228,
+    "target_scale": 208.352297083118,
+    "x_min": [
+      0.010006805974990129,
+      2.09912724504871,
+      1.99230399364331,
+      0.021932089162990453
+    ],
+    "x_max": [
+      0.9206472891755402,
+      4.60516760407092,
+      9.883182168727869,
+      0.9776133714709431
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "gold_A197-gold_bSat_STU_TQQG_q3.bin",
+    "channel_name": "TQQG_q3",
+    "label": "TQQG",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -43.506962588200864,
+    "target_scale": 62.68187002782808,
+    "x_min": [
+      0.010002299081534147,
+      0.09553500975889663,
+      1.99230399364331,
+      0.016053719839081167
+    ],
+    "x_max": [
+      0.9049508133530617,
+      4.60516760407092,
+      9.883250282222397,
+      0.9989939640872181
+    ],
+    "nucleus_A": 197,
+    "nucleus_name": "gold",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  }
+]

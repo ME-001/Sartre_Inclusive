@@ -1,0 +1,566 @@
+[
+  {
+    "file": "calcium_A40-calcium_bSat_STU_TQQ_q0.bin",
+    "channel_name": "TQQ_q0",
+    "label": "TQQ",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -59.10306724923197,
+    "target_scale": 74.39046219632496,
+    "x_min": [
+      0.010001553408801557,
+      0.09533615924778607,
+      6.630020285042268e-05,
+      0.0010043954160064458
+    ],
+    "x_max": [
+      0.9899995281361044,
+      4.605162766192901,
+      9.883270596611915,
+      0.9989938163030893
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_LQQ_q0.bin",
+    "channel_name": "LQQ_q0",
+    "label": "LQQ",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -58.263544215015855,
+    "target_scale": 69.89047645943951,
+    "x_min": [
+      0.010001553408801557,
+      0.09533615924778607,
+      6.630020285042268e-05,
+      0.0010043954160064458
+    ],
+    "x_max": [
+      0.9899995281361044,
+      4.605162766192901,
+      9.883270596611915,
+      0.9989938163030893
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_TQQG_q0.bin",
+    "channel_name": "TQQG_q0",
+    "label": "TQQG",
+    "quark_id": "q0",
+    "quark_mass": 0.0022,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -45.18356501234768,
+    "target_scale": 62.8147930795604,
+    "x_min": [
+      0.010001553408801557,
+      0.09533615924778607,
+      6.630020285042268e-05,
+      0.012652063800022005
+    ],
+    "x_max": [
+      0.989770556408912,
+      4.6051363594420405,
+      9.8831993719875,
+      0.9989871362745761
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_TQQ_q1.bin",
+    "channel_name": "TQQ_q1",
+    "label": "TQQ",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -60.48936161035186,
+    "target_scale": 74.39046219632495,
+    "x_min": [
+      0.010001553408801557,
+      0.09533615924778607,
+      6.630020285042268e-05,
+      0.0010043954160064458
+    ],
+    "x_max": [
+      0.9899995281361044,
+      4.605162766192901,
+      9.883270596611915,
+      0.9989938163030893
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_LQQ_q1.bin",
+    "channel_name": "LQQ_q1",
+    "label": "LQQ",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -59.64983857613574,
+    "target_scale": 69.89047645943951,
+    "x_min": [
+      0.010001553408801557,
+      0.09533615924778607,
+      6.630020285042268e-05,
+      0.0010043954160064458
+    ],
+    "x_max": [
+      0.9899995281361044,
+      4.605162766192901,
+      9.883270596611915,
+      0.9989938163030893
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_TQQG_q1.bin",
+    "channel_name": "TQQG_q1",
+    "label": "TQQG",
+    "quark_id": "q1",
+    "quark_mass": 0.0047,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -46.569859373467565,
+    "target_scale": 62.8147930795604,
+    "x_min": [
+      0.010001553408801557,
+      0.09533615924778607,
+      6.630020285042268e-05,
+      0.012652063800022005
+    ],
+    "x_max": [
+      0.989770556408912,
+      4.6051363594420405,
+      9.8831993719875,
+      0.9989871362745761
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_TQQ_q2.bin",
+    "channel_name": "TQQ_q2",
+    "label": "TQQ",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -60.48936161035186,
+    "target_scale": 73.36040959459582,
+    "x_min": [
+      0.010001553408801557,
+      0.09533615924778607,
+      6.630020285042268e-05,
+      0.001013166729360819
+    ],
+    "x_max": [
+      0.9899995281361044,
+      4.605162766192901,
+      9.883270596611915,
+      0.9989938163030893
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_LQQ_q2.bin",
+    "channel_name": "LQQ_q2",
+    "label": "LQQ",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -59.64983857613574,
+    "target_scale": 69.85839755836412,
+    "x_min": [
+      0.010001553408801557,
+      0.09533615924778607,
+      6.630020285042268e-05,
+      0.001013166729360819
+    ],
+    "x_max": [
+      0.9899995281361044,
+      4.605162766192901,
+      9.883270596611915,
+      0.9989938163030893
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_TQQG_q2.bin",
+    "channel_name": "TQQG_q2",
+    "label": "TQQG",
+    "quark_id": "q2",
+    "quark_mass": 0.096,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -46.569859373467565,
+    "target_scale": 62.8147930795604,
+    "x_min": [
+      0.010001553408801557,
+      0.09533615924778607,
+      6.630020285042268e-05,
+      0.012652063800022005
+    ],
+    "x_max": [
+      0.9897435068339109,
+      4.6051363594420405,
+      9.8831993719875,
+      0.9989871362745761
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_TQQ_q3.bin",
+    "channel_name": "TQQ_q3",
+    "label": "TQQ",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -52.94667565702725,
+    "target_scale": 61.223044817111834,
+    "x_min": [
+      0.01000922279432416,
+      2.100598071478251,
+      1.9923011402401607,
+      0.021962778070941567
+    ],
+    "x_max": [
+      0.9226327674090862,
+      4.605162766192901,
+      9.88326153015352,
+      0.9786672609895468
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_LQQ_q3.bin",
+    "channel_name": "LQQ_q3",
+    "label": "LQQ",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -56.03056449169284,
+    "target_scale": 64.19051193013215,
+    "x_min": [
+      0.01000922279432416,
+      2.100598071478251,
+      1.9923011402401607,
+      0.021962778070941567
+    ],
+    "x_max": [
+      0.9226327674090862,
+      4.605162766192901,
+      9.88326153015352,
+      0.9786672609895468
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  },
+  {
+    "file": "calcium_A40-calcium_bSat_STU_TQQG_q3.bin",
+    "channel_name": "TQQG_q3",
+    "label": "TQQG",
+    "quark_id": "q3",
+    "quark_mass": 1.27,
+    "activation": "silu",
+    "activation_id": 0,
+    "ceiling_enabled": false,
+    "log_floor": -45.18356501234768,
+    "target_scale": 59.65359607617772,
+    "x_min": [
+      0.010001553408801557,
+      0.09562993595944894,
+      1.9923239122381964,
+      0.013859876530244945
+    ],
+    "x_max": [
+      0.9003131150268018,
+      4.6051363594420405,
+      9.882971523143775,
+      0.9989871362745761
+    ],
+    "nucleus_A": 40,
+    "nucleus_name": "calcium",
+    "dipole_model_type": "bSat",
+    "dipole_model_parameter_set": "STU",
+    "priority": 10,
+    "physical_ranges": {
+      "beta": [
+        0.01,
+        0.99
+      ],
+      "Q2": [
+        1.1,
+        100.0
+      ],
+      "W2": [
+        1.0,
+        19600
+      ],
+      "z": [
+        0.001,
+        0.999
+      ]
+    }
+  }
+]

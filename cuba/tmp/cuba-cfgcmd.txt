@@ -1,0 +1,1 @@
+cmd='/Users/bhakta/InDis4/cuba/configure;--prefix=/Users/bhakta/InDis4/cuba/build'

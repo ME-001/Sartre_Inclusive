@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/bhakta/InDis4/src/CMakeFiles/cuba"
+		},
+		{
+			"file" : "/Users/bhakta/InDis4/src/CMakeFiles/cuba.rule"
+		},
+		{
+			"file" : "/Users/bhakta/InDis4/src/CMakeFiles/cuba-complete.rule"
+		},
+		{
+			"file" : "/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-build.rule"
+		},
+		{
+			"file" : "/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-configure.rule"
+		},
+		{
+			"file" : "/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-download.rule"
+		},
+		{
+			"file" : "/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-install.rule"
+		},
+		{
+			"file" : "/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-mkdir.rule"
+		},
+		{
+			"file" : "/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-patch.rule"
+		},
+		{
+			"file" : "/Users/bhakta/InDis4/cuba/src/cuba-stamp/cuba-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cuba"
+		],
+		"name" : "cuba"
+	}
+}
